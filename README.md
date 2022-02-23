@@ -713,7 +713,9 @@
                 </div>
                 <div class="ml-2 flex-shrink-0">
                   Type <kbd class="hx_kbd">?</kbd> for help and tips
-                </div>
+                </div>@import "@primer/css/core/index.scss";
+@import "@primer/css/product/index.scss";
+@import "@primer/css/marketing/index.scss";
               </div>
             </command-palette-tip>
             <command-palette-tip
