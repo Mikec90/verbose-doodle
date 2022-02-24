@@ -22,7 +22,7 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-UClkQCXZUB72OhcRH/0tTtWJpsH0AtA2wYP5hy3F2QoFGJbTSRKa0tDGevxG9D1jfxsDCpvRoboRMbaloQCrDA==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5029644025d9501ef63a17111ffd2d4e.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-lI46H2564tEkXTyrrH+Hwlin/71MJJMEuhHUMWxvDjpn2UnzYo+PkR2vvPwgr3pEt6EhZI8pZhfatt9dY2ZZhQ==" rel="stylesheet" href="https://github.githubassets.com/assets/tab-size-fix-948e3a1f6e7ae2d1245d3cabac7f87c2.css" />
   
-  
+    <link rel="preconnect" href="https://avatars.githubusercontent.com">
   
   <link crossorigin="anonymous" media="all" integrity="sha512-foTM2RT00n9huyeXycaPaAA2OB3VgcdnttfrlXkgcO+w1cWJWKuemtq0btkUF6OZdj2QL+8pnsjo5GYavaorvA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-7e84ccd914f4d27f61bb2797c9c68f68.css" />
 
