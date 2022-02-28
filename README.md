@@ -160,6 +160,32 @@
     <meta property="og:image" content="https://opengraph.githubassets.com/e82e03b2d38a3da7f7cd765409b1988972d63aa313a97a675c47995e7b58c5c1/facebook/facebook-ios-sdk" /><meta property="og:image:alt" content="Used to integrate the Facebook Platform with your iOS &amp; tvOS apps. - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with your iOS &amp; tvOS apps." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with your iOS &amp; tvOS apps." /><meta property="og:url" content="https://github.com/facebook/facebook-ios-sdk" /><meta property="og:description" content="Used to integrate the Facebook Platform with your iOS &amp; tvOS apps. - facebook/facebook-ios-sdk: Used to integrate the Facebook Platform with your iOS &amp; tvOS apps." />
     
 
+# Set to true to add reviewers to PRs
+addReviewers: true
+
+# Set to 'author' to add PR's author as a assignee
+addAssignees: author
+
+# A list of reviewers to be added to PRs (GitHub user  name)
+reviewers:
+  - Mikec90
+  
+# A number of reviewers added to the PR
+# Set 0 to add all the reviewers (default: 0)
+numberOfReviewers: 1
+
+# A list of assignees, overrides reviewers if set
+assignees:
+  - Mikec90
+  
+# A number of assignees to add to the PRs
+# Set to 0 to add all of the assignees.
+# Uses numberOfReviewers if unset.
+numberOfAssignees: 0
+
+# A list of keywords to be skipped the process if PR's title include it
+skipKeywords:
+  - wip
 
 
     
