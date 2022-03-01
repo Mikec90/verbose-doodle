@@ -1,0 +1,3 @@
+# verbose-doodle is a Software that automatically merges codes for integrations with built in Security system 
+For tracking and blocking hack from stealing data. For social networking websites safe without and lost are stolen data, files, 
+ApI keys, etc...
