@@ -5367,6 +5367,33 @@ Advertising Guidelines, as applicable <a href="https://www.facebook.com/ad_guide
       }
     </style>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0TF71VPPP7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0TF71VPPP7');
+</script>
+
+mikelartzcreativedesignsgaming.live
+Socket Access Token API
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbiI6IjBGNTg3RTMzRDg1MzJGRUJFRTc0IiwicmVhZF9vbmx5Ijp0cnVlLCJwcmV2ZW50X21hc3RlciI6dHJ1ZSwidHdpdGNoX2lkIjoiNzQwMDIzMjE2IiwiZmFjZWJvb2tfaWQiOiIyNTMyMDUzOTM1MzcxMjcifQ.1Lfkqul5V9e4mRSabMbTXvz3fxfVxoM1xZE6o_fc3cA
+
+Access Token API
+0F587E33D8532FEBEE74
+
+https://streamlabs.com/widgets/wheel?token=0F587E33D8532FEBEE74
+
+cs-2756fd73-8493-48b0-8875-fafd7cf4788a
+
+https://streamlabs.com/widgets/end-credits?token=0F587E33D8532FEBEE74
+
+107.77.199.11 efee680a545a43579619c006dd837546
+
+[![Greetings](https://github.com/Mikec90/verbose-doodle/actions/workflows/greetings.yml/badge.svg?branch=%F0%9F%94%8CPlugged-v28.002.022.2)](https://github.com/Mikec90/verbose-doodle/actions/workflows/greetings.yml)
 
   </body>
 </html>
