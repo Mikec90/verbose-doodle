@@ -1,0 +1,133 @@
+# For most projects, this workflow file will not need changing; you simply need
+# to commit it to your repository.
+#
+# You may wish to alter this file to override the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` matrix defined below to confirm you have the correct set of
+# supported CodeQL languages.
+#
+name: "CodeQL"
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ main ]
+  schedule:
+    - cron: '21 19 * * 5'
+
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [  ]
+        # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python', 'ruby' ]
+        # Learn more about CodeQL language support at https://git.io/codeql-language-support
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Initializes the CodeQL tools for scanning.
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v1
+      with:
+        languages: ${{ matrix.language }}
+        # If you wish to specify custom queries, you can do so here or in a config file.
+        # By default, queries listed here will override any specified in a config file.
+        # Prefix the list here with "+" to use these queries and those in the config file.
+        # queries: ./path/to/local/query, your-org/your-repo/queries@main
+
+    # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
+    # If this step fails, then you should remove it and run the build manually (see below)
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v1
+
+    # ℹ️ Command-line programs to run using the OS shell.
+    # 📚 https://git.io/JvXDl
+
+    # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
+    #    and modify them (or add more) to build your code if your project
+    #    uses a compiled language
+
+mikelartzcreativedesignsgaming.live
+Socket Access Token API
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbiI6IjBGNTg3RTMzRDg1MzJGRUJFRTc0IiwicmVhZF9vbmx5Ijp0cnVlLCJwcmV2ZW50X21hc3RlciI6dHJ1ZSwidHdpdGNoX2lkIjoiNzQwMDIzMjE2IiwiZmFjZWJvb2tfaWQiOiIyNTMyMDUzOTM1MzcxMjcifQ.1Lfkqul5V9e4mRSabMbTXvz3fxfVxoM1xZE6o_fc3cA
+
+Access Token API
+0F587E33D8532FEBEE74
+
+107.77.199.11
+
+https://streamlabs.com/widgets/wheel?token=0F587E33D8532FEBEE74
+
+cs-2756fd73-8493-48b0-8875-fafd7cf4788a
+
+https://streamlabs.com/widgets/end-credits?token=0F587E33D8532FEBEE74
+
+Facebook SDK code
+ pod 'FacebookSDK
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '3210135125874263');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=3210135125874263&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+From 96966404231e3817bb7d306294315d4af1c1b012 Mon Sep 17 00:00:00 2001
+From: "Mc. Integrations" <87812205+Mikec90@users.noreply.github.com>
+Date: Mon, 28 Feb 2022 10:44:29 -0600
+Subject: [PATCH] Create OAuth.22
+
+---
+ OAuth.22 | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 OAuth.22
+
+diff --git a/OAuth.22 b/OAuth.22
+new file mode 100644
+index 0000000..46cca30
+--- /dev/null
++++ b/OAuth.22
+@@ -0,0 +1,2 @@
++# demo-repository-ghsa-cfhx-c723-5248
++b8e4844dd8e78b6cfddd50e6638961e46f408d8c
+
+GitHub workflows:
+    example-workflow:
+      jobs:
+        - cypress/run
+
+    efee680a545a43579619c006dd837546
+
+#- run: |
+    #   make bootstrap
+    #   make release
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v1
