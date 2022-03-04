@@ -1,0 +1,19 @@
+
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb4807236149383381</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>4807236149383381</string>
+<key>FacebookDisplayName</key>
+<string>MikelArtz&Designs</string>
+
+Ingest Server url rtmp://us-central-restream-ingest.streamlabs.com/ingest
+Stream key: sl_live_rs_82bceae09120452eb83271ce01f938cc?source=web
+
+FB-140818261757818-0-AbyZ0Hw26irZ9caD
